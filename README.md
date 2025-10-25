@@ -1,8 +1,8 @@
-👋 hi, i'm aaron!
+👋 hi, i'm #aaron!
 
 currently studying computer science @ hunter college
 
-previously seen swe intern @ [apollo](https://www.apollo.com/)
+previously seen swe intern @ apollo
 
 cooler things to come soon 😊
 
