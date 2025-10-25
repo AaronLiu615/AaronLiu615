@@ -8,5 +8,4 @@ previously seen swe intern @ [apollo](https://www.apollo.com/)
 cooler things to come soon 😊
 --
 
-### 📫 Connect
-[kinkedIn](https://www.linkedin.com/in/aaronliu05/)
+[linkedIn](https://www.linkedin.com/in/aaronliu05/)
