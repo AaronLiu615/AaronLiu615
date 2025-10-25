@@ -1,4 +1,4 @@
-👋 hi, i'm #aaron!
+👋 hey, i'm **aaron**!
 
 currently studying computer science @ hunter college
 
